@@ -1,0 +1,20 @@
+h1{
+    font-weight: 550;
+    font-size: 48px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h4{
+    font-weight: 300;
+    font-size: 24px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+p {
+    font-size: 13pt;
+    font-weight: 550;
+    font-family: serif;
+    text-align: center;
+}
